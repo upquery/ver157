@@ -1,0 +1,34 @@
+create or replace function upquery_jet wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+8
+63a 323
+GqKayyHgZVRjZkQc1LIdmMIO9+owg41eTCCDfI5Vgp0GvGxa2OCQPKHpO11X6FQqn8na3UHY
+SNdqkqb9Hd63m4YeZEY2LTVz9RAk0HIAQad29sVXiqr5g+oFnYtjg2MCzA8E3eGheoSbIyGp
+TrB8gmugeJpU6ucm94JCrXLjNEuXLmminULs6AJ9a0ZuWcz6IRSWnXgeXQYIbKp6MUCcX0wY
+6XrTP6vZV26R5/F9CcDdWZFnjSBf+/LXX9SVlG9utp2voefXTp9n6ypzMHM6i8kE037aA2eK
+mr1hjBsBuaHAhNacRA77V15AgxpbZoS43ujYcUSjatOMD1jhPmwjAyLwB7YEkV03mzUkHjPL
+09J5+AtzNDe7EzKBwd63docBjPctRdzKJh5TRjOL3/aWxPngRHYMTDhqpxbneFuXCaGL5rcO
+aJj4Te7zosS26Md4q6Q173tP/ZaANJ/oYmwNTARDFJXv/kB1g9ti3ienBjhP29wdoGeJa1++
+I9mDvUVUlPqDXBL2fgpVyZg/I0gwHpZ3lBSAxX3OaBjNgYRGgoxfMJoAXze9zCHsMwpt7Ybe
+PbP7lr2X8BvVea/GUu99nmJB0TQ84h454BMMK3WOSPaQBkNHy0g500H9fw2XVvKyg2BKIjjP
+ms5Q98GvYUCqOKoAK+QY9T2sKAphJGV53UWVoI/hFDjGDEM1NkHhF2IOA+//gZkk8C2hA5H+
+p4+5Z0ZGWj5oB4UDvmVj6F/8ZOpeqMFa/R+3YN5GcywjKLXX2X7sp+e3+t1OM7mUlVz2hA==
+
+
+/

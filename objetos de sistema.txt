@@ -1,0 +1,26 @@
+-- Tabelas, index e PKs - Copiar da base modelo 
+	- Todas as tabelas
+
+-- Procedures - Copiar da base modelo
+	- ATU_ESTRUTURA_BANCO
+	- LIMPA_TABLESPACE
+	- EXEC_DAY
+	- EXEC_QUARTER
+
+-- FUNCNS - Copiar da base modelo
+	- C2B
+	- PTG_TRANS2 
+	- SEND_REPORT
+
+-- TYPE - Copiar da base modelo
+	- ARR
+	- CHARRET
+	- GER_MENSAGENS
+	- GER_PARAMETROS
+	- PIPE_ORDER
+	- TAB_MENSAGENS
+	- TAB_PARAMETROS
+	- TAB_PIPE
+	
+-- 	SEQUENCE - Copiar da base modelo
+

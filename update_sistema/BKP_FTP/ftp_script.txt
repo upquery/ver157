@@ -1,0 +1,6 @@
+open sftp://root:work%40%232022%21@187.108.201.70:7890 -hostkey="ssh-ed25519 255 3zkEFTS++uUNIRrRaiENRoKMQbHPgm61LWfLHQmu6Cc=" 
+cd /home/oracle/update_sistemas
+lcd arquivos
+put *.*
+close
+exit

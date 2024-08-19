@@ -1,0 +1,34 @@
+create or replace package  CORE wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+9
+c1b 343
+JKlPCWYFbseu9CDiahC+7vHK6QEwgzucDNDrfC/GvkVPFcSpoOaZsY3IG/8aKlefPNBabmbL
+jVemH875FdzsISh40HnHDHpOA8GBv7rh+DmAGlneGokTajeSSb/xk+IUYomgaZ17d5oeX/aR
+p7ywY9H8rII7/Bj9aUY2H9E+lPIcoUCtVzgm9eZ6KqBDSVB109zmmSOmWcluPiGMjZjIRV87
+aKTAOlSRuujx6pfLK4kDssBJRGWyJ1n6JRV3i1zP2GcDtn1yS40+U3o3WOI26PXpGCPVgEDY
+lCVHrQMDPW8JN7qvAVySosbLMEkESoM6ccWkYk4r8vfHOA0j5AjDkpQ7qyiHgJ67EgWl5j2I
+b+p9jmh4v5s+McsqWe+Xuh3r7Z3N3YfZX/TLC09feKyo8N2E7nulSjYOhYxmjgDvc2cqo7Bk
+2Za2ea6+RyPMSe9DFE6jDVK3i95+kN9rCvoBRoAxqhyjo4dAy7psM+1TJ600zzw7gPCCEbl5
+lHmRgD1JTTAFAfPm4PGB9RePICWFpKu80BokJcaoiaWNWbvZlLDUB6ICc6cOrsQnYwWq/eWB
+d03rAcLiDF6xvPzZJYSnQEcfW7G9t/X1Zg1y9tjmCry3w29oBlC/fHvV+CdHzIyRdqfPT8FK
+LsaBeDo7HUkP8UN2xBdkx9E1UJOWL2WSzT15eHfor4eqcp1ynT/5zk67blloXhcEomN56iQW
+Sc3I8cVsL118j3ZGr/q53XHuRp3Yu44rp2s4azqWx7naLAIo1QQg7YDiXhxOTjnZ4qvVdzn4
+hYA4cu8OIkY5MGdYKrVEh8u7+R3R4cc9
+
+/

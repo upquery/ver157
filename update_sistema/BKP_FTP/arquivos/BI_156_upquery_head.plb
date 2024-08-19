@@ -1,0 +1,30 @@
+create or replace package UpQuery wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+9
+589 217
+SLphnfdZuSk0ZOt8Y72W8MlujO4wg/C37QlqfC9G3juwaRd1a8qgJv/x8ecUkMDC4Wv6GueU
+gnxnnskwMIo2pSwtU5eVwVW3oB41aBVxCM7CaLuHJFPLX0Lma5EUlWIRxnJCKkGK1B03XGw4
+j9XKLaZFiwnXyuzxmBFHbNn8JswKRO7JYx3KwZPwQWZE7H3K/Qdw3LPWovK4XQMi97art/50
+EKejl6y3hSjr6wMETDFvoBY93T04/a8GYNlGFy8aidkje5oseX/Q7iL9jeXjgVeoohAYvDFc
+BWDx3+iuU/8mWsXa5QgOkMNzAU7N+XO+Lo3DAqUwsfpwXHgm8vXefBaC+JxRRksWL1rL+uRS
++NJh2TqViS3Y3gJ3GqKT/lH5JEDnGn95XahG2uTZsDkoG/CA45VlxaPq0Z37e0Pdurf83iI6
+bna7P1Tr61t9jjJ29uoybnqnMlPubnySNIYet+AkzYiXMquJRz/FOjtomBGZPS+3yZyzfT0o
+TDdfPklC0gfqQcIDlpGdoYQ=
+
+/

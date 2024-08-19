@@ -1,0 +1,31 @@
+create or replace package cfg wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+9
+61a 250
+SDjGP5K+K3bS2tNMqWxAFGU1mKwwg2PD2QlqfHRd8p3meMSCzWtxrSYt8gDO85GY68AIN4jO
+tSTdLV4WLl5lDrfNiuJWDDFvExfPZjAStaZpPzmto5+y+oU2QH5Z1zPeGcKhVTkzhdfLOjgI
+VA4fMGjVu3qOUwuhbp1BBMrebcxbLyjgrZhy+2kxG6GVAQDb4pVaGyarQ1bAxa0MYCkeiwzJ
+rdYTzFqYGn6wKlkccfzLi/l9bDmjrFeLVIgD8QlWGxggjYjFBU2Bjj8RXtLzOoPNorglQn/M
+6FLfaYmx9Yn6HXCpyze0BhQ19kCsXjD3gelt+ZsUSly/7p0MyNS1h4wgbZ1jxxDAWF8F6zpo
+xTEKtBHf2+8dLGYngSOrMHVqKCcsXO7E4Se98Ecud7Pgqt8N9wD4d7WZM7ILWtQ63b7hHjN1
+VRRQ0puUsG+IciN4u/Z93P8DDy9zbf+irj2J33Xqag9wjNvhOcN7abeHZggtEs0/jUwlSvAu
+UqAZMYPD6xnbT+dEZI1Va51KHx4yKtfyFs4J2eM/6rPE+ivPuQSkUPAZW0XGE/eNyKS1CLm2
+f/Ojqw==
+
+/

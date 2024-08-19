@@ -1,0 +1,3 @@
+
+Para alterar a imagem superior da tela de login, para uma imagem específica para o cliente, é necessário subir o arquivo com nome loginup_alter.svg para o BI do cliente.
+Esse recurso foi criado inicialmente para clientes da Agrosys.

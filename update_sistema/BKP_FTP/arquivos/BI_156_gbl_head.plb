@@ -1,0 +1,27 @@
+create or replace package gbl wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+9
+2ab 128
+moQ3Nsx5yNdwh153ReXaqwNYtE4wg2PMr8usfHSBR+rSFr1JZG78FlN8e4rf064bhzTOtRdb
+8nem9xGuINcSZM26beXUGI8jvvtFFDdUoQ8AFh3VZGKE6SJTqVFiWkYVUGtNHZfRqny6LRgY
+yja56VXUn8ccD4zhnsV/BCh2X/o5geaB/GB4o+l6CkAhT9GXRe8Dyd8a6wtAThekhBJ0FLCa
+X6gst3N01ewSuraWU8mEsT6oBg29hbWnmarkHKGABkHrvHyQn0Grca8hhT108FOpJyCb16S/
+RE1Y
+
+/

@@ -1,0 +1,29 @@
+create or replace package cfg wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+9
+4dc 1de
+Vn6PAO8oU6g6HqLE66RRd7vMTcAwg2OJ10gVfHTGv0xPFcSOvcuGl/r2dKLZgEMUlIrxahrN
+c5pwKVu2jN1mi16GzrUDTLreLUJqpK/GwR+pm5SR9jEqFO+2BMJ/KgVMVcKhc/t7XcnQNId+
+QFBtMIqJvxxAuMbxV5pBjsrebcxbL/Yt2EED+18ntxoG7hIc+GZIkfHlzP9msKjByMySCKXW
+kyu4sTmzIj4FA4v61gztjDOAln9Q09t/BZd1jYngzOeaxYJJBU0y9CKgPpLjzzt78271h47g
+qxcd6ULwjFmHph3159tvbak8RzdsRYWS4KLQ5NPG5ZbOUjbe5CCI61TkAP+B1wFl4oxO7VzA
+UbQRh/QgVs/jTT343u5rQA8l+mAVD7JfYiFlKMyAbbdk9ci3kiG1mYGQB6iIwR3By9gefJ0b
+N5cF6m6jkXoTTACBUBL/A7eNyE/YLoHSsuLG08E=
+
+/
