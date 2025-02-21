@@ -21,6 +21,7 @@ echo  !    2. IVANOR                      !
 echo  !                                   !
 echo  !    3. GIOVANNI                    !
 echo  !                                   !
+echo  !    4. VERSAO 157 - (base DWU)     !
 echo  !                                   !
 echo  !    9. HOMOLOGA                    !
 echo  !                                   !
@@ -39,6 +40,10 @@ if %opcao0% equ 2 (
 )	
 if %opcao0% equ 3 (
 	set desenv=DESENV02
+	goto menu_desenv
+)	
+if %opcao0% equ 4 (
+	set desenv=VERSAO157
 	goto menu_desenv
 )	
 if %opcao0% equ 9 ( 
@@ -147,6 +152,7 @@ if %desenv% equ HOMOLOGA  (goto menu_homologa) else (goto menu_desenv)
 if %desenv% equ DESENV01    start "" cmd /c atu_pkg.bat DWU1 DWU1 DESENV_PDB
 if %desenv% equ IVANOR      start "" cmd /c atu_pkg.bat DWU2 DWU2 DESENV_PDB
 if %desenv% equ DESENV02    start "" cmd /c atu_pkg.bat DWU3 DWU3 DESENV_PDB
+if %desenv% equ VERSAO157   start "" cmd /c atu_pkg.bat DWU  4wdyPel2SX49  DESENV_PDB
 if %desenv% equ HOMOLOGA    start "" cmd /c atu_pkg.bat DWU  DWU  HOMOLOGA
 if %desenv% equ HOMOLOGA  (goto menu_homologa) else (goto menu_desenv)
 
@@ -154,6 +160,7 @@ if %desenv% equ HOMOLOGA  (goto menu_homologa) else (goto menu_desenv)
 if %desenv% equ DESENV01    start "" cmd /c atu_min.bat DWU1 DWU1 DESENV_PDB
 if %desenv% equ IVANOR      start "" cmd /c atu_min.bat DWU2 DWU2 DESENV_PDB
 if %desenv% equ DESENV02    start "" cmd /c atu_min.bat DWU3 DWU3 DESENV_PDB
+if %desenv% equ VERSAO157   start "" cmd /c atu_min.bat DWU 4wdyPel2SX49 DESENV_PDB
 if %desenv% equ HOMOLOGA    start "" cmd /c atu_min.bat DWU  DWU  HOMOLOGA
 if %desenv% equ HOMOLOGA  (goto menu_homologa) else (goto menu_desenv)
 
@@ -161,6 +168,7 @@ if %desenv% equ HOMOLOGA  (goto menu_homologa) else (goto menu_desenv)
 if %desenv% equ DESENV01    start "" cmd /c atu_tudo.bat DWU1 DWU1 DESENV_PDB
 if %desenv% equ IVANOR      start "" cmd /c atu_tudo.bat DWU2 DWU2 DESENV_PDB
 if %desenv% equ DESENV02    start "" cmd /c atu_tudo.bat DWU3 DWU3 DESENV_PDB
+if %desenv% equ VERSAO157   start "" cmd /c atu_tudo.bat DWU 4wdyPel2SX49 DESENV_PDB
 if %desenv% equ HOMOLOGA    start "" cmd /c atu_tudo.bat DWU  DWU  HOMOLOGA
 if %desenv% equ HOMOLOGA  (goto menu_homologa) else (goto menu_desenv)
 
